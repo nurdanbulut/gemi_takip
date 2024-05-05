@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|c:\\users\\nurda\\onedrive\\masa\u00FCst\u00FC\\gemi_takip\\gemi_takip\\gemi_takip\\migrations\\202404151235126_mynewmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|solutionrelative:gemi_takip\\migrations\\202404151235126_mynewmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|c:\\users\\nurda\\onedrive\\masa\u00FCst\u00FC\\gemi_takip\\gemi_takip\\gemi_takip\\gemicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|solutionrelative:gemi_takip\\gemicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|c:\\users\\nurda\\onedrive\\masa\u00FCst\u00FC\\gemi_takip\\gemi_takip\\gemi_takip\\liman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|solutionrelative:gemi_takip\\liman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|c:\\users\\nurda\\onedrive\\masa\u00FCst\u00FC\\gemi_takip\\gemi_takip\\gemi_takip\\liman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|solutionrelative:gemi_takip\\liman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\gemi_takip\\gemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68002C3A-3D23-42C8-9304-DB84E0252B17}|Gemi_Takip\\Gemi_Takip.csproj|solutionrelative:gemi_takip\\gemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202404151235126_MyNewMigration.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Migrations\\202404151235126_MyNewMigration.cs",
+              "RelativeDocumentMoniker": "Gemi_Takip\\Migrations\\202404151235126_MyNewMigration.cs",
+              "ToolTip": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Migrations\\202404151235126_MyNewMigration.cs",
+              "RelativeToolTip": "Gemi_Takip\\Migrations\\202404151235126_MyNewMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:52:42.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GemiContext.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\GemiContext.cs",
+              "RelativeDocumentMoniker": "Gemi_Takip\\GemiContext.cs",
+              "ToolTip": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\GemiContext.cs",
+              "RelativeToolTip": "Gemi_Takip\\GemiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:52:37.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liman.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Liman.Designer.cs",
+              "RelativeDocumentMoniker": "Gemi_Takip\\Liman.Designer.cs",
+              "ToolTip": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Liman.Designer.cs",
+              "RelativeToolTip": "Gemi_Takip\\Liman.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:42:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Liman.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Liman.cs",
+              "RelativeDocumentMoniker": "Gemi_Takip\\Liman.cs",
+              "ToolTip": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Liman.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Gemi_Takip\\Liman.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:42:08.925Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gemi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Gemi.cs",
+              "RelativeDocumentMoniker": "Gemi_Takip\\Gemi.cs",
+              "ToolTip": "C:\\Users\\nurda\\OneDrive\\Masa\u00FCst\u00FC\\Gemi_Takip\\Gemi_Takip\\Gemi_Takip\\Gemi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Gemi_Takip\\Gemi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:32:44.486Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
